@@ -1,0 +1,14 @@
+# API secrets
+phishguard/API.env
+API.env
+.env
+
+# Virtual environments
+.venv/
+phishguard/.venv/
+**/.venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
